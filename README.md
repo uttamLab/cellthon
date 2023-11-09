@@ -1,4 +1,4 @@
-# Cellthon for annotation of nuclei and cells in tissue images
+# Cellthon for Annotation of Nuclei and Cells in Tissue Images
 
 A Python based graphical user interface (GUI) for annotating cells and their nuclei in tissue images that was developed using Tkinter toolkit.
 
