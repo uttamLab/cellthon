@@ -19,7 +19,7 @@ To run Cellthon on Windows, follow these steps:
 
 Cellpose was used by expert pathologists to annotate nuclei and cells in 75 tiff images of tissue sections from eight organs of the human gastrointestinal system. This dataset was used to develop and test a new [unsupervised algorithm](https://www.biorxiv.org/content/10.1101/2023.11.13.566842v1) for automatic segmentation of nuclei and cells in images of complex tissues.
 
-* If you find this code useful in your research, please consider citing:
+* If you find Cellthon useful in your research, please consider citing:
 ```
 @article {Kochetov2023.11.13.566842,
 	author = {Bogdan Kochetov and Phoenix Bell and Paulo S Garcia and Akram S Shalaby and Rebecca Raphael and Benjamin Raymond and Brian J Leibowitz and Karen
